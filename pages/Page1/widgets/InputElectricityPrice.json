@@ -6,9 +6,9 @@
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "bottomRow": 63,
   "boxShadow": "none",
-  "decimals": 0,
+  "decimals": 2,
   "defaultCurrencyCode": "EUR",
-  "defaultText": "",
+  "defaultText": "0.39",
   "dynamicBindingPathList": [
     {
       "key": "accentColor"

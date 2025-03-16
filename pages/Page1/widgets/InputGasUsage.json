@@ -5,7 +5,7 @@
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "bottomRow": 31,
   "boxShadow": "none",
-  "defaultText": "",
+  "defaultText": "1200",
   "dynamicBindingPathList": [
     {
       "key": "accentColor"
@@ -17,7 +17,7 @@
   "dynamicHeight": "FIXED",
   "dynamicTriggerPathList": [],
   "iconAlign": "left",
-  "inputType": "TEXT",
+  "inputType": "NUMBER",
   "isDisabled": false,
   "isLoading": false,
   "isRequired": false,
@@ -45,6 +45,7 @@
   "resetOnSubmit": true,
   "responsiveBehavior": "fill",
   "rightColumn": 64,
+  "shouldAllowAutofill": false,
   "showStepArrows": false,
   "topRow": 24,
   "type": "INPUT_WIDGET_V2",

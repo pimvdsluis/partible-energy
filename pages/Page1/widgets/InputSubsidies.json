@@ -8,7 +8,7 @@
   "boxShadow": "none",
   "decimals": 0,
   "defaultCurrencyCode": "EUR",
-  "defaultText": "",
+  "defaultText": "3000",
   "dynamicBindingPathList": [
     {
       "key": "accentColor"
