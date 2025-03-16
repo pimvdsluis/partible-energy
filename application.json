@@ -5,7 +5,7 @@
   },
   "applicationDetail": {
     "navigationSetting": {
-      "colorStyle": "light",
+      "colorStyle": "theme",
       "logoAssetId": "",
       "logoConfiguration": "logoAndApplicationTitle",
       "navStyle": "sidebar",
@@ -24,9 +24,10 @@
   "collapseInvisibleWidgets": true,
   "color": "#C7F3E3",
   "evaluationVersion": 2,
+  "icon": "line-chart",
   "pages": [
     {
-      "id": "Page1",
+      "id": "Terugverdientijd berekenen",
       "isDefault": true
     }
   ],
@@ -35,7 +36,7 @@
   },
   "unpublishedApplicationDetail": {
     "navigationSetting": {
-      "colorStyle": "light",
+      "colorStyle": "theme",
       "logoAssetId": "",
       "logoConfiguration": "logoAndApplicationTitle",
       "navStyle": "sidebar",

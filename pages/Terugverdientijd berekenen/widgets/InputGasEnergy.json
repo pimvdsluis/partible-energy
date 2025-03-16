@@ -2,13 +2,16 @@
   "accentColor": "{{appsmith.theme.colors.primaryColor}}",
   "animateLoading": true,
   "autoFocus": false,
-  "borderRadius": "0.375rem",
-  "bottomRow": 55,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 39,
   "boxShadow": "none",
-  "defaultText": "4.5",
+  "defaultText": "8.8",
   "dynamicBindingPathList": [
     {
       "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
     }
   ],
   "dynamicHeight": "FIXED",
@@ -20,7 +23,7 @@
   "isRequired": false,
   "isVisible": true,
   "key": "k3j6oggz5j",
-  "label": "SCOP-waarde",
+  "label": "Thermische energie-inhoud gas (kWh/m³)",
   "labelAlignment": "left",
   "labelPosition": "Top",
   "labelStyle": "",
@@ -35,6 +38,8 @@
   "mobileRightColumn": 37,
   "mobileTopRow": 24,
   "needsErrorInfo": false,
+  "originalBottomRow": 47,
+  "originalTopRow": 40,
   "parentColumnSpace": 20.25,
   "parentId": "0",
   "parentRowSpace": 10,
@@ -44,9 +49,9 @@
   "rightColumn": 64,
   "shouldAllowAutofill": false,
   "showStepArrows": false,
-  "topRow": 48,
+  "topRow": 32,
   "type": "INPUT_WIDGET_V2",
   "version": 2,
-  "widgetId": "hiuuxxfyof",
-  "widgetName": "InputScopValue"
+  "widgetId": "lxrhw79lps",
+  "widgetName": "InputGasEnergy"
 }

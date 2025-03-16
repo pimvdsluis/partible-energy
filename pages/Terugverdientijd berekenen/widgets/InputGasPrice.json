@@ -4,11 +4,11 @@
   "animateLoading": true,
   "autoFocus": false,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 63,
+  "bottomRow": 60,
   "boxShadow": "none",
   "decimals": 2,
   "defaultCurrencyCode": "EUR",
-  "defaultText": "0.39",
+  "defaultText": "1.40",
   "dynamicBindingPathList": [
     {
       "key": "accentColor"
@@ -25,7 +25,7 @@
   "isRequired": false,
   "isVisible": true,
   "key": "c9dkvqh1vf",
-  "label": "Electriciteitsprijs",
+  "label": "Gasprijs",
   "labelAlignment": "left",
   "labelPosition": "Top",
   "labelStyle": "",
@@ -40,6 +40,8 @@
   "mobileRightColumn": 37,
   "mobileTopRow": 8,
   "needsErrorInfo": false,
+  "originalBottomRow": 71,
+  "originalTopRow": 64,
   "parentColumnSpace": 20.25,
   "parentId": "0",
   "parentRowSpace": 10,
@@ -48,9 +50,9 @@
   "responsiveBehavior": "fill",
   "rightColumn": 64,
   "showStepArrows": false,
-  "topRow": 56,
+  "topRow": 53,
   "type": "CURRENCY_INPUT_WIDGET",
   "version": 1,
-  "widgetId": "pr3jgndvgb",
-  "widgetName": "InputElectricityPrice"
+  "widgetId": "1king3qxa2",
+  "widgetName": "InputGasPrice"
 }

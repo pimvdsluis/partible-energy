@@ -3,9 +3,9 @@
   "animateLoading": true,
   "autoFocus": false,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 47,
+  "bottomRow": 32,
   "boxShadow": "none",
-  "defaultText": "8.8",
+  "defaultText": "0.8",
   "dynamicBindingPathList": [
     {
       "key": "accentColor"
@@ -23,7 +23,7 @@
   "isRequired": false,
   "isVisible": true,
   "key": "k3j6oggz5j",
-  "label": "Thermische energie-inhoud gas (kWh/m³)",
+  "label": "Efficiëntie cv-ketel",
   "labelAlignment": "left",
   "labelPosition": "Top",
   "labelStyle": "",
@@ -38,6 +38,8 @@
   "mobileRightColumn": 37,
   "mobileTopRow": 24,
   "needsErrorInfo": false,
+  "originalBottomRow": 40,
+  "originalTopRow": 33,
   "parentColumnSpace": 20.25,
   "parentId": "0",
   "parentRowSpace": 10,
@@ -47,9 +49,9 @@
   "rightColumn": 64,
   "shouldAllowAutofill": false,
   "showStepArrows": false,
-  "topRow": 40,
+  "topRow": 25,
   "type": "INPUT_WIDGET_V2",
   "version": 2,
-  "widgetId": "lxrhw79lps",
-  "widgetName": "InputGasEnergy"
+  "widgetId": "77gc3d2khu",
+  "widgetName": "InputBoilerEfficiency"
 }
