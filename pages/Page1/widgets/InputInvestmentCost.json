@@ -1,6 +1,6 @@
 {
   "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-  "allowCurrencyChange": true,
+  "allowCurrencyChange": false,
   "animateLoading": true,
   "autoFocus": false,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
@@ -25,7 +25,7 @@
   "isRequired": false,
   "isVisible": true,
   "key": "c9dkvqh1vf",
-  "label": "Label",
+  "label": "Investeringskosten",
   "labelAlignment": "left",
   "labelPosition": "Top",
   "labelStyle": "",
