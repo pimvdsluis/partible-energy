@@ -1,0 +1,47 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 76,
+  "boxShadow": "none",
+  "buttonColor": "#15803d",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": true,
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "lwtwsvxtr8",
+  "leftColumn": 24,
+  "minWidth": 120,
+  "mobileBottomRow": 76,
+  "mobileLeftColumn": 19,
+  "mobileRightColumn": 35,
+  "mobileTopRow": 72,
+  "needsErrorInfo": false,
+  "onClick": "{{Heat_pump_calculator.calculatePaybackTime('15000', '3000', '1250', '0.8', '8.8', '4.5', '0.3', '1.4');}}",
+  "parentColumnSpace": 6.84375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 40,
+  "text": "Bereken nu",
+  "topRow": 72,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "gv20xkz61r",
+  "widgetName": "calculatePaybackTime"
+}
