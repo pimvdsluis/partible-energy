@@ -2,13 +2,16 @@
   "accentColor": "{{appsmith.theme.colors.primaryColor}}",
   "animateLoading": true,
   "autoFocus": false,
-  "borderRadius": "0.375rem",
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "bottomRow": 46,
   "boxShadow": "none",
   "defaultText": "4.5",
   "dynamicBindingPathList": [
     {
       "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
     }
   ],
   "dynamicHeight": "FIXED",
